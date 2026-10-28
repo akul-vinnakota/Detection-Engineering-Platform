@@ -1,3 +1,24 @@
+# Detection Engineering Platform
+
+## Mathematical Threat Detection Framework
+
+**Proposed research model — under development**
+
+$$
+R(x)=\sigma\left(\sum_{i=1}^{n}w_ix_i+\sum_{i<j}\gamma_{ij}x_ix_j+b\right)
+$$
+
+This project explores mathematical threat-risk modeling beyond
+independent rule matches, using weighted security signals,
+nonlinear feature interactions, and context-aware scoring.
+
+The objective is to evaluate whether these methods improve
+detection precision, recall, and analyst triage efficiency.
+
+[Explore the Mathematics Research](mathematics/README.md)
+
+---
+
 # Detection Engineering Lab
 
 A detection-as-code cybersecurity project using Sigma, Python, Sysmon, and Wazuh to create, test, and document threat detections.
