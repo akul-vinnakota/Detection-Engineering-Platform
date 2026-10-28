@@ -1,0 +1,7 @@
+{
+  "input_file": "sample-logs/benchmark_10000.jsonl",
+  "events_processed": 10000,
+  "alerts_generated": 10,
+  "processing_seconds": 0.04054,
+  "events_per_second": 246671.43
+}
